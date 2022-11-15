@@ -29,9 +29,9 @@
 
 ```shell
 # 下载项目
-git clone https://gitee.com/logandev/zerotier-planet-moon.git
+git clone https://github.com/lijiaxing126/zerotier-planet.git
 or 
-git clone https://github.com/LoganJinDev/zerotier-planet-moon.git
+git clone https://github.com/lijiaxing126/zerotier-planet.git
 
 # 切换到项目目录
 cd zerotier-planet-moon
@@ -55,11 +55,11 @@ docker run -d \
 
 ```shell
 # 下载项目
-git clone https://gitee.com/logandev/zerotier-planet-moon.git
+git clone https://github.com/lijiaxing126/zerotier-planet.git
 or 
-git clone https://github.com/LoganJinDev/zerotier-planet-moon.git
+git clone https://github.com/lijiaxing126/zerotier-planet.git
 # 切换到项目目录
-cd zerotier-planet-moon
+cd zerotier-planet
 # 启动命令
 docker-compose up -d
 
